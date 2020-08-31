@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: ... https://hinickin.snickeret.vercel.app/
+
 <!--
 **Nickhill28/NickHill28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
