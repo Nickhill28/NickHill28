@@ -9,14 +9,14 @@
 
       
 
-- 💬 Ask me about ...    
-    - ...     -->Psychology                                                                                 
-              -->Space | Time | Dilation                                                                      
-              -->Science                                                                                 
-              -->Programming                                                                             
-              -->Politics                                                                               
-              -->Possible Money Flow                                                                        
-              -->Accents
+- 💬 Ask me about: ...    
+    - Psychology                                                                                 
+    - Space | Time | Dilation                                                                      
+    - Science                                                                                 
+    - Programming                                                                             
+    - Politics                                                                               
+    - Possible Money Flow                                                                        
+    - Accents
     
     
 - 🔭 I’m currently working on ...
