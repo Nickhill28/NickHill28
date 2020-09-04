@@ -1,5 +1,5 @@
 ### Hi there 👋
-- "Nikhil" means 'Whole' and "Gupta" stands for 'Beginning Here'.So, in a Nutshell Nikhil Gupta account ✨"Beginning of the Whole".✨
+- "Nikhil"='Whole'| "Gupta" = 'Beginning Here'.In a Nutshell Nikhil Gupta stands for ✨"Beginning of the Whole".✨
 
 - ⚡ Fun fact: ... 
      - 0220 is an Angel Number for Love and Gratitude. 
