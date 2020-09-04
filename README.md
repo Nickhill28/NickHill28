@@ -35,7 +35,7 @@
       
       - 😄 Pronouns: ...  🐦snickeret | ♓NickHill | Angel number: 0220  | 👽prawnick | iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ
       
-                                                                                                                                                 ### BeeHumble 👋
+                                                                                                      ### BeeHumble 👋
 
 <!--
 **Nickhill28/NickHill28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
