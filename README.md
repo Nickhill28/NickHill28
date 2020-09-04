@@ -33,7 +33,7 @@
 - 👯 I’m looking to collaborate on ...
      - Personal Project <b>NicknShe</b>
       
-      - 😄 Pronouns: ...  🐦<a href="https://www.twitter.com/snickeret">snickeret</a> | @NickHill | @peddythebuddy | @prawnick | @im_nicksome
+      - 😄 Pronouns: ...  🐦snickeret | ♓NickHill | <time date="1999-02-20">peddythebuddy</time>  | 👽prawnick | iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ
       
                                                                                                                                                  ### BeeHumble 👋
 
