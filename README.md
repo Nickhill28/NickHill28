@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- ⚡ Fun fact: ... "Nikhil" means 'Whole' and "Gupta" stands for 'Beginning Here'. 
-  So, in a Nutshell Nikhil Gupta account ✨"Beginning of the Whole".✨
+- ⚡ Fun fact: ... 
+      - "Nikhil" means 'Whole' and "Gupta" stands for 'Beginning Here'. 
+      - So, in a Nutshell Nikhil Gupta account ✨"Beginning of the Whole".✨
 
 - 📫 How to reach me: ...  +91 UP70
 
-- 🌱 I’m currently learning ... To built an asset out of me to be benificial for the Whole including me.
+- 🌱 I’m currently learning ... To built an asset out of me being benificial for the Whole and me.
 
       
 
@@ -20,17 +21,17 @@
     
     
 - 🔭 I’m currently working on ...
-      -->Hoax Detector        | NLP
-      -->Realtime Subtitles   | AR
-      -->Insighting X-ray     | ML
-      -->Audio OAuth          | Audio Fingerprinting
+      - Hoax Detector        | NLP
+      - Realtime Subtitles   | AR
+      - Insighting X-ray     | ML
+      - Audio OAuth          | Audio Fingerprinting
 
 - 🤔 I’m looking for help with ...
-     -->Data Structures    | java
-     -->Data Visualizatio  | D3.js
+     - Data Structures    | java
+     - Data Visualizatio  | D3.js
      
 - 👯 I’m looking to collaborate on ...
-      -->Personal Project [NicknShe] 
+      - Personal Project [NicknShe] 
       
       - 😄 Pronouns: ...  @snickeret| @NickHill | @peddythebuddy | @prawnick | @im_nicksome
       
