@@ -31,7 +31,7 @@
      - Data Visualizatio  | D3.js
      
 - 👯 I’m looking to collaborate on ...
-     - Personal Project [NicknShe] 
+     - Personal Project <b>NicknShe</b>
       
       - 😄 Pronouns: ...  @snickeret| @NickHill | @peddythebuddy | @prawnick | @im_nicksome
       
