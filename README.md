@@ -21,17 +21,17 @@
     
     
 - 🔭 I’m currently working on ...
-      - Hoax Detector        | NLP
-      - Realtime Subtitles   | AR
-      - Insighting X-ray     | ML
-      - Audio OAuth          | Audio Fingerprinting
+    - Hoax Detector        | NLP
+    - Realtime Subtitles   | AR
+    - Insighting X-ray     | ML
+    - Audio OAuth          | Audio Fingerprinting
 
 - 🤔 I’m looking for help with ...
      - Data Structures    | java
      - Data Visualizatio  | D3.js
      
 - 👯 I’m looking to collaborate on ...
-      - Personal Project [NicknShe] 
+     - Personal Project [NicknShe] 
       
       - 😄 Pronouns: ...  @snickeret| @NickHill | @peddythebuddy | @prawnick | @im_nicksome
       
