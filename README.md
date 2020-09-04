@@ -33,7 +33,7 @@
 - 👯 I’m looking to collaborate on ...
      - Personal Project <b>NicknShe</b>
       
-      - 😄 Pronouns: ...  🐦snickeret | ♓NickHill | <time date="1999-02-20">peddythebuddy</time>  | 👽prawnick | iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ
+      - 😄 Pronouns: ...  🐦snickeret | ♓NickHill | Angel number: 0220  | 👽prawnick | iͥmͫ_niͥcͨᴋⷦs͛oͦmͫeͤ
       
                                                                                                                                                  ### BeeHumble 👋
 
